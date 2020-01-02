@@ -8,7 +8,6 @@ Divide the array in three equal parts and allow the individual stack to grow in 
 • For stack 3 -> 2n/3 to n
 """
 __author__ = 'abhireddy96'
-import math
 
 
 class MultiStack:
